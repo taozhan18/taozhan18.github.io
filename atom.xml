@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tao Zhang</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-06-21T17:11:32.227Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Tao Zhang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Tao Zhang</title>
+    <link href="http://example.com/2024/06/22/hello-world/"/>
+    <id>http://example.com/2024/06/22/hello-world/</id>
+    <published>2024-06-21T16:02:19.641Z</published>
+    <updated>2024-06-21T17:11:32.227Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h2><p>Zhang Tao (Chinese: 张涛) is currently a second year master’s student at Nuclear Power Institute of China(NPIC), under the guidance of professor Jiao Yongjun. He completed his undergraduate studies at Tsinghua University in 2022, majoring in nuclear engineering and technology, with a minor in computer science. He is currently a visiting student at the Artificial Intelligence Science Simulation and Discovery Laboratory of West Lake University, conducting research on the intersection of nuclear energy and AI. His supervisor is Wu Tailin. Her research focuses on: AI for nuclear, multiphysics fields simulation, and reactor design.</p><h2 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h2><ol><li>Tao Zhang, Wenbing Han, Pengfei Shen, et.al. Neutronic and Thermal-Hydraulic Performance Analysis of Helical Cruciform Fuel Rods[J]. Nuclear power engineering, 2023.</li><li>Tao Zhang, Yongjun Jiao, Zhenhai Liu, et.al. Learning to simulate quasi-steady-state fuel rod performance with hybrid Fourier neural operator[J]. Progress in Nuclear energy. Under review.</li><li>Tao Zhang, Yongjun Jiao, Zhenhai Liu, et.al. Modeling of zirconium alloy cladding corrosion behavior based on neural ordinary differential equation[J]. Nuclear Engineering and Technology. Under review.</li></ol><h2 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h2><ul><li>2018-2022: Tsinghua University(清华大学), Bachelor of Nuclear Engineering and Nuclear Technology(main) and Computer Science(minor).</li><li>2022-Now, Nuclear power institude of China, Master of Nuclear Energy Science and engineering.</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
