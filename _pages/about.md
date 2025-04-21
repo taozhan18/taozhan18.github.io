@@ -35,7 +35,7 @@ His research focuses on: AI for science &amp; nuclear engineering.
 ## Reward
 - Tsinghua University University-level Award for Outstanding Graduation Design. (top 5%)
 - Tsinghua University Award for Academic Excellence.
-- Outstanding Report Award at the 4th Nuclear Energy PhD Forum of the Chinese Nuclear Society
+- Outstanding Report Award at the 4th Nuclear Energy PhD Forum of the Chinese Nuclear Society.
 
 ## Open-source projects:
 - MultiSimDiff: [https://github.com/taozhan18/MooseAgent](https://github.com/taozhan18/MooseAgent)
