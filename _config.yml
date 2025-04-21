@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"
   # bio              : "Short biography for the left-hand sidebar"
   location         : "China Sichuan Chengdu"
-  employer         : "Nuclear Power Institute of China"
+  employer         : "NPIC"
   # uri              : # URL
   email            : "taozhan22@gmail.com"
 
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0009-0478-9153"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : https://www.researchgate.net/profile/Tao-Zhang-391?ev=hdr_xprf # URL
   scopus           : # URL
 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
