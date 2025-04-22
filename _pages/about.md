@@ -38,12 +38,12 @@ His research focuses on: AI for science &amp; nuclear engineering.
 - Outstanding Report Award at the 4th Nuclear Energy PhD Forum of the Chinese Nuclear Society.
 
 ## Open-source projects:
-- MultiSimDiff: [https://github.com/taozhan18/MooseAgent](https://github.com/taozhan18/MooseAgent)
-- MooseAgent: [https://github.com/AI4Science-WestlakeU/MultiSimDiff](https://github.com/AI4Science-WestlakeU/MultiSimDiff)
+- MultiSimDiff: [https://github.com/AI4Science-WestlakeU/MultiSimDiff](https://github.com/AI4Science-WestlakeU/MultiSimDiff)
+- MooseAgent: [https://github.com/taozhan18/MooseAgent](https://github.com/taozhan18/MooseAgent)
 
 ## Skills
 * Core Domain Areas:
-    * Nuclear materials, Reactor Physics, Thermal Hydraulics.
+    * Nuclear fuel and materials, Reactor Physics, Thermal Hydraulics.
 * Engineering Simulation & Modeling:
     * Proficiency in: MOOSE, ANSYS, RMC.
     * Surrogate Modeling and Uncertainty Quantification (UQ).
