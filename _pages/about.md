@@ -22,8 +22,8 @@ His research focuses on: AI for science &amp; nuclear engineering.
 
 ### Conference
 - Tao Zhang, Yongjun Jiao, Zhenhai Liu, et.al. A Surrogate Model of Steady-state Fuel Performance based on deep learning[C]. Topfuel2024, Franch, 2024.
-- Tao Zhang, Yongjun Jiao, Zhenhai Liu, et.al. Uncertainty quantification of corrosion model for zirconium alloy cladding based on artificial intelligence[C]. ICONE， 2025.
-- Tao Zhang, Zhenhai Liu, Feipeng Qi, et.al. M2PDE: Compositional generative multiphysics and multi-compomnent PDE sinmulation[C]. ICML, 2025.
+- Tao Zhang, Yongjun Jiao, Zhenhai Liu, et.al. Uncertainty quantification of corrosion model for zirconium alloy cladding based on artificial intelligence[C]. International Conference of Nuclear Engineering, 2025.
+- Tao Zhang, Zhenhai Liu, Feipeng Qi, et.al. M2PDE: Compositional generative multiphysics and multi-compomnent PDE sinmulation[C]. International Conference of Machine Learning, 2025. (IF: 32.4)
 
 ### Preprint
 - Tao Zhang, Zhenhai Liu, Yong Xin, et al. MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation[J]. arXiv preprint arXiv:2504.08621, 2025.
